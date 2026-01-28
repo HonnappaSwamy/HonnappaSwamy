@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**HonnappaSwamy/HonnappaSwamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hello, I'm an Engineering Student & Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Current Project
+
+> Solo Leveling System Application - Building an application inspired by the Solo Leveling universe, focusing on progression systems and character development mechanics.
+
+🌱 Currently Learning
+
+> Application Development
+> 
+> Python Programming
+
+🤔 Seeking Help With
+
+> Ethical Hacking techniques and best practices
+> 
+> Security implementation in applications
+
+
+🎓 Background
+> Engineering Student
+
+Passionate about creating immersive systems and applications
+
+📫 Contact
+Email: honnappaswamytn@gmail.com
+
+Pronouns: He/Him
