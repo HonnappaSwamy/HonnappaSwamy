@@ -12,12 +12,14 @@
 > - Application Development
 > - Python Programming
 
-### 🗃️ **Languages Known**
-> - **C**
-> - **C++**
-> - **Java**
-> - **HTML**
-> - **Python**
+### 🗃️ **Languages & Skills**
+> **Intermediate Level:**
+> - **C** • **C++** • **Java**   • **HTML**
+> 
+> **Learning:**
+> - **Python**  
+> 
+> *Familiar with OOP, Data Structures, and Basic Algorithms*
 
 ### 🤔 **Seeking Help With**
 > - Ethical Hacking techniques and best practices
